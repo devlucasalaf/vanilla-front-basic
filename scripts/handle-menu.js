@@ -11,10 +11,10 @@
 
     if (setOpen === true) {
       menuContainer.style.display = 'block'
-      menuBtn.innerHTML = 'Close'
+      menuBtn.innerHTML = 'Close Menu'
     } else {
       menuContainer.style.display = 'none'
-      menuBtn.innerHTML = 'Open'
+      menuBtn.innerHTML = 'Open Menu'
     }
   }
 
